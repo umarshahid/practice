@@ -36,8 +36,8 @@ section {
     Two column layout stuff
   ---------------------------*/
 /* Main Section Headings and sub headings */
-article .begin-examples ~ h2,
-article .begin-examples ~ h2 + p {
+article .begin-examples ~ h1,
+article .begin-examples ~ h1 + p {
     width: 100%;
     clear: both;
 }
