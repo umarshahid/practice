@@ -2,11 +2,9 @@
 layout: base
 ---
 
-# Responsive, Two Column Documentation Layout With Markdown and CSS
-
-Markdown makes it easy to write and maintain documentation, but is normally limited to single column layouts. For documenting code, and on larger screens particularly, single column layouts do not utilize space well and separate explanatory text too much from code samples:
-
-This page documents how to use plain old Markdown and CSS to achieve a responsive, two column layout, with code examples their explanations appear next to each other. It targets code documentation, but can easily be adapted to other contexts as well.
+# Umar Shahid
+_Systems Engineer (in stream of Communication Systems & Networks)_<br>
+[Email](mailto:ushahid.msse18@rcms.nust.edu.pk) / Cell: +92 (333) 1618 963 **|** [Resaerch Gate](https://www.researchgate.net/profile/Umar-Shahid)
 
 For maximum metaness, the page itself uses the two column layout it documents. More complete examples are demonstrated on the [Bennu][bennu] and [Nu][nu] project sites.
 
